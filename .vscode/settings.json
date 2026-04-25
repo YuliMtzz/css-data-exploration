@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/bin/python3",
+    "jupyter.kernelSpecFinder.preferKernelSpecSources": ["LocalKernelSpec"],
+    "jupyter.defaultKernel": "python3"
+}
